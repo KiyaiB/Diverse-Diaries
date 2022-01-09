@@ -1,0 +1,20 @@
+#detail{
+    color: beige;
+    font-size: 20px;
+    font-weight: 900;
+}
+#span{
+    font-style: italic;
+    color: white;
+    font-size: 20px;
+}
+.far{
+    
+    color: black;
+}
+.far:hover{
+    color: whitesmoke;
+}
+label{
+    cursor: pointer;
+}

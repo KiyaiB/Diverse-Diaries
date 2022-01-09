@@ -1,0 +1,19 @@
+a{
+    padding: 20px;
+}
+.fab{
+    font-size: 40px;
+    color: black;
+    align-content: center;
+}
+
+.fab:hover{
+    font-size: 60px;
+    color: beige;
+}
+.card{
+    background-color: #363535;
+}
+p{
+    color: beige;
+}
