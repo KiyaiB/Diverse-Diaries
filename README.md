@@ -16,9 +16,9 @@ Clone the Repo.
 
 
     
-Open the project on vs code or your desired editor.
+-Open the project on vs code or your desired editor.
 
-Open the project on live Server.
+-Open the project on live Server.
 
 # Development Server
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
