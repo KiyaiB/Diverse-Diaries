@@ -1,5 +1,5 @@
 # Diverse-Diaries
-It is Angular Application that allows users to either up-vote or down-vote a quote. Users can also add their own quotes.
+It is Angular Application that allows users to either up-vote or down-vote a quote and they can also add their own quotes.
 
 ng build --prod --base-href "https://KiyaiB.github.io/Diverse-Diaries/" $ npx angular-cli-ghpages --dir=dist/Project-name
 
