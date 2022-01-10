@@ -1,5 +1,5 @@
 # Diverse-Diaries
-An Angular application that allows users to like, dislike, delete and add quotes.
+It is Angular application that allows users to like, dislike, delete and add quotes.
 
 ng build --prod --base-href "https://KiyaiB.github.io/Diverse-Diaries/" $ npx angular-cli-ghpages --dir=dist/Project-name
 
